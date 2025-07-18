@@ -1,3 +1,3 @@
-College Projects - IF Campus Machado
+Projetos da Faculdade - IF Campus Machado
 
-This repository contains all my projects, assignments, and academic activities developed during my undergraduate studies in Information Systems at IF - Campus Machado. It includes code, documentation, and other materials organized by subject and semester.
+Repositório com todos os projetos, atividades e trabalhos que estou desenvolvendo durante o curso de Sistemas de Informação no IF - Campus Machado. Os materiais estão organizados por disciplina e semestre.
