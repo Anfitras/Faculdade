@@ -1,1 +1,1 @@
-# Listas-Algoritmos-e-L-gica-de-Programa-o
+# Listas-Algoritmos-e-Logica-de-Programacao
